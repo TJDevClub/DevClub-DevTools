@@ -6,7 +6,9 @@ There is not a particular reason why I chose Chrome Dev Tools over other browser
 
 ## Opening Chrome Dev Tools
 Windows: F12 or Ctrl+Shift+I
+
 Linux: Ctrl+Shift+I
+
 Mac: Cmd+Opt+I
 
 ## CDT and the DOM
@@ -110,7 +112,7 @@ We can also view the cookies that Cubemania has stored. In here we do indeed see
 - Click on the 'Users' tab. What type of CSS selector is used to apply the yellow background on hover effect?
 - Search for "naitian" in the search box. Monitor the network traffic. What is/are the query string parameter(s) of the search query? What is/are the value(s) of the parameter? Is this request a GET request or POST request? Why does that make sense?
 
-2) Visit this wonderful lawn care website: http://kamronsoldozy.github.io
+2) Visit this wonderful lawn care website: [http://kamronsoldozy.github.io](http://kamronsoldozy.github.io)
 - Look in the Console. What are some errors? Are any of these errors related to each other?
 - Based on these errors, what part of the home page is broken? What is it supposed to do?
 - How can we fix this?
@@ -119,6 +121,8 @@ Bonus) Solve a Rubik's cube in under 30 seconds.
 
 ## Further Reading
 Chrome Developer Tools has a lot more to offer than just what we covered here. If you'd like to find out more, here are some materials to keep you occupied.
+
+- [Google I/O 2016 Dev Tools Talk](https://www.youtube.com/watch?v=x8u0n4dT-WI)
 - [Google Official Dev Tools Site](https://developers.google.com/web/tools/chrome-devtools/?hl=en)
 - [Chrome Developers YouTube Channel](https://www.youtube.com/channel/UCnUYZLuoy1rq1aVMwx4aTzw)
 - [Totally Tooling Tips](https://developers.google.com/web/shows/ttt/?hl=en)
